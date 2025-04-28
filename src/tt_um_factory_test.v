@@ -1,10 +1,4 @@
-/*
- * tt_um_factory_test.v
- *
- * Test user module
- *
- * Author: Sylvain Munaut <tnt@246tNt.com>
- */
+
 
 `default_nettype none
 
